@@ -2984,7 +2984,7 @@ textarea.form-control-lg {
 
 .nav-link {
   display: block;
-  padding: 0.5rem 1rem;
+  padding: 0.2rem 1rem;
   color: #3F91F5;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out; }
@@ -9058,16 +9058,16 @@ strong,
 	3.5 Section Spacing
 =================== */
 .section-sp1 {
-  padding-top: 100px;
-  padding-bottom: 70px; }
+  padding-top: 5px;
+  padding-bottom: 10px; }
   @media only screen and (max-width: 1199px) {
     .section-sp1 {
-      padding-top: 70px;
-      padding-bottom: 40px; } }
+      padding-top: 10px;
+      padding-bottom: 10px; } }
   @media only screen and (max-width: 991px) {
     .section-sp1 {
-      padding-top: 50px;
-      padding-bottom: 20px; } }
+      padding-top: 10px;
+      padding-bottom: 10px; } }
 
 .section-sp2 {
   padding-top: 100px;
